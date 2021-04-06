@@ -18,8 +18,6 @@ Install with:
 yarn add @vouchpanel/react
 ```
 
-## Contributing
-
 [project-url]: https://github.com/vouchpanel/vouchpanel-react
 [package-image]: https://badge.fury.io/js/typescript-template.svg
 [package-url]: https://badge.fury.io/js/typescript-template
