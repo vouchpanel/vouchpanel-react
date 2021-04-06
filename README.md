@@ -12,10 +12,23 @@ Quickly embed a vouchpanel into your React project.
 
 ### How To Use
 
-Install with:
+Install with yarn (or `npm install`):
 
 ```bash
 yarn add @vouchpanel/react
+```
+
+Include it as a JSX element:
+```tsx
+import Wall from "@vouchpanel/react";
+
+const MyWall = (props: {}) => {
+  return (
+    <div>
+      <Wall id={4}></Wall>
+    </div>
+  );
+};
 ```
 
 [project-url]: https://github.com/vouchpanel/vouchpanel-react
