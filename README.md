@@ -19,17 +19,17 @@ yarn add @vouchpanel/react
 ```
 
 [project-url]: https://github.com/vouchpanel/vouchpanel-react
-[package-image]: https://badge.fury.io/js/typescript-template.svg
-[package-url]: https://badge.fury.io/js/typescript-template
+[package-image]: https://img.shields.io/npm/v/@vouchpanel/react
+[package-url]: https://www.npmjs.com/package/@vouchpanel/react
 [issues-image]: https://img.shields.io/github/issues/vouchpanel/vouchpanel-react.svg?style=popout
 [issues-url]: https://github.com/vouchpanel/vouchpanel-react/issues
 [build-image]: https://travis-ci.org/vouchpanel/vouchpanel-react.svg?branch=master
 [build-url]: https://travis-ci.org/vouchpanel/vouchpanel-react
 [coverage-image]: https://coveralls.io/repos/github/vouchpanel/vouchpanel-react/badge.svg?branch=master
 [coverage-url]: https://coveralls.io/github/vouchpanel/vouchpanel-react?branch=master
-[dependencies-image]: https://david-dm.org/vouchpanel/vouchpanel-react/status.svg
-[dependencies-url]: https://david-dm.org/vouchpanel/vouchpanel-react
-[dev-dependencies-image]: https://david-dm.org/vouchpanel/vouchpanel-react/dev-status.svg
-[dev-dependencies-url]: https://david-dm.org/vouchpanel/vouchpanel-react?type=dev
+[dependencies-image]: https://img.shields.io/david/vouchpanel/vouchpanel-react
+[dependencies-url]: https://www.npmjs.com/package/@vouchpanel/react
+[dev-dependencies-image]: https://img.shields.io/david/dev/vouchpanel/vouchpanel-react
+[dev-dependencies-url]: https://www.npmjs.com/package/@vouchpanel/react
 [commitizen-image]: https://img.shields.io/badge/commitizen-friendly-brightgreen.svg
 [commitizen-url]: http://commitizen.github.io/cz-cli
