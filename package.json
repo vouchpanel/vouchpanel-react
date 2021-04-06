@@ -1,5 +1,5 @@
 {
-  "name": "vouchpanel",
+  "name": "@vouchpanel/react",
   "version": "1.0.0",
   "homepage": "https://vouchpanel.com/",
   "description": "Embed tweet and testimonials into your react project.",
