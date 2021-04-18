@@ -1,6 +1,6 @@
 {
   "name": "@vouchpanel/react",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "homepage": "https://vouchpanel.com/",
   "description": "Embed tweet and testimonials into your react project.",
   "keywords": [
@@ -28,6 +28,7 @@
     "dist/"
   ],
   "scripts": {
+    "readme": "cat _README.md > README.md && (curl https://raw.githubusercontent.com/vouchpanel/vouchpanel-site/main/docs/languages/react.md) >> README.md",
     "publish": "npm publish --access public",
     "build": "npm run clean && npm run lint && tsc",
     "changelog": "conventional-changelog -p angular -u",
